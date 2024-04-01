@@ -1,0 +1,28 @@
+.bg-warning {
+    text-align: center;
+}
+.rounded-circle{
+    height: 148px;
+    width: 148px;
+    float: right;
+    
+}
+.btn btn-danger{
+   position: absolute;
+   left: 200px;
+
+}
+.float-start{
+    position: absolute;
+    top: 550px;
+}
+/* .table table-bordered table table-hover table table-dark  table-striped{
+    position: absolute;
+    top: 1000px;
+} */
+.card{
+    position: absolute;
+    justify-items: center;
+    left: 400px;
+    top: -10px;
+}
